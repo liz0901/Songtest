@@ -10,11 +10,11 @@ Calary's local test
 
 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-C1 | C2
+|First Header  | Second Header|
+|------------- | -------------|
+|Content Cell  | Content Cell|
+|Content Cell  | Content Cell|
+|C1 | C2|
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -25,7 +25,7 @@ C1 | C2
 | --------- | -----:|
 | Computer  | $1600 |
 | Phone     |   $12 |
-| Pipe      |    $1 |
+| Pipe      |  $1 |
 
 | Function name | Description                    |
 | ------------- | ------------------------------ |
