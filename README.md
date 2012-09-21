@@ -11,10 +11,10 @@ Calary's local test
 
 
 |First Header  | Second Header|
-|------------- | -------------|
+|------------- | -------------:|
 |Content Cell  | Content Cell|
 |Content Cell  | Content Cell|
-|C1 | C2|
+|C1 |  C2 |
 
 | First Header  | Second Header |
 | ------------- | ------------- |
